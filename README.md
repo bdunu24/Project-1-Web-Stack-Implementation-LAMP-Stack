@@ -206,7 +206,7 @@ We can simultaneously install all three of these packages. Begin by running the 
 
     $ sudo apt install php libapache2-mod-php php-mysql
 
-![](twenty.png)
+![](twentyone.png)
 
 Awesome! The LAMP stack is now completely installed and fully operational.
 
@@ -232,7 +232,7 @@ Next, paste in the following configuration by pressing on 'i' on the keyboard to
 
 Once you have entered the text, press 'esc', type ':wq', then press 'Enter' on your keyboard to write (save) and exit the vi editor.
 
-![](twentyone.png)
+![](twentytwo.png)
 
 Now, we will use a series of commands.
 
@@ -260,7 +260,7 @@ Finally, reload Apache so these changes take effect:
 
 Here is what you can expect to see on your Terminal:
 
-![](twentytwo.png)
+![](twentythree.png)
 
 Although our website is now active, the web root /var/www/projectlamp is still empty. Let's create an index.html file in that location so that we will be able to test that the virtual host works properly. Use the command below:
 
