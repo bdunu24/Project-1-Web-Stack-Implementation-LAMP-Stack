@@ -194,6 +194,8 @@ To exit the MySQL console, type the following:
 
     mysql> exit
 
+![](twenty.png)
+
 # PHP
 
 ## Installing PHP on the Virtual Environment
