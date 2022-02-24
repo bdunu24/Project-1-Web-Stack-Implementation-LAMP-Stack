@@ -313,4 +313,4 @@ Don't forget to terminate your EC2 instance and it's associated components on th
 
     $ sudo rm /var/www/projectlamp/index.php
 
-Credit: This guide was inspired by [SkillEmbassy](https://github.com/ceciliacloud/web-stack-implementation-lamp/blob/main/samuelbartels20/web-stack-implementation)
+That's it! You've successfully completed the implementaion of your first LAMP stack. Great job!
