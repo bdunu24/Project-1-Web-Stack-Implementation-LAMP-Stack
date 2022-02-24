@@ -270,7 +270,7 @@ Now let's test that the website is correctly displaying our content by opening t
 
 It should look something like this:
 
-![](twentythree.png)
+![](twentyfour.png)
 
 ## Enable PHP on the website
 
@@ -282,7 +282,7 @@ In the vi editor, modify the default text to the following:
 
 DirectoryIndex index.php index.html index.cgi index.pl index.xhtml index.htm :
 
-![](twentyfour.png)
+![](twentyfive.png)
 
 After saving and closing the file, you must reload Apache so the changes take effect. Use the following command:
 
@@ -297,7 +297,7 @@ This will open a blank file. Add the following text inside of the file:
     <?php
     phpinfo();>
 
-![](twentyfive.png)
+![](twentysix.png)
 
 Once you have completed this step, save and close the file.
 
