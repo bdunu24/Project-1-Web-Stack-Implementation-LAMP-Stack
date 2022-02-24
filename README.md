@@ -4,7 +4,7 @@ Welcome to my Web Stack Implementation project!
 
 Web Stack is is a group of software components, used to implement or set up various applications (for example, a website). The "stack" refers to the specific layered components (e.g. OS system, webserver, script interpreter, and database) which are built on top of each other. One of the most popular web stacks include LAMP, which stands for Linux, Apache, MySQL, and PHP.
 
-For this project, we'll focus on the LAMP stack. Keep in mind that LAMP is an acronym for Linux, Apache, MySQL, PHP or Python, or Perl. In this demonstration, the 'P' utilized will be PHP. Let's dive in!
+For this project, we'll be focusing on the LAMP stack. Let's dive in!
 
 ## LINUX
 
