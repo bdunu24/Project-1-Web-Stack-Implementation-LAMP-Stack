@@ -14,7 +14,7 @@ Web Stack is is a group of software components, used to implement or set up vari
 
 **M** –– MySQL
 
-    >> MySQL Database >> An open-source relational database management system
+    >> An open-source relational database management system
 
 **P** –– (Hypertext Preprocessor)
 
